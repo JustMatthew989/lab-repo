@@ -1,0 +1,2 @@
+Hello sir!
+Hello sirecho Hello sir! > file1.txt
